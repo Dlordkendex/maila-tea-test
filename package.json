@@ -9,7 +9,13 @@
   "keywords": [],
   "author": "",
   "repository": {
+    "type": "git",
     "url": "https://github.com/dlordkendex/maila-tea-test.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/dlordkendex"
+    },
   "license": "ISC"
 }
+
+
