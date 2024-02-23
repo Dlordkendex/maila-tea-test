@@ -1,7 +1,7 @@
 {
   "name": "@dlordkendex/maila-tea-test",
   "version": "1.0.1",
-  "description": "",
+  "description": "maila-tea-test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
