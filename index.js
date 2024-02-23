@@ -1,0 +1,1 @@
+module.exports = console.log("maila-tea-test");
